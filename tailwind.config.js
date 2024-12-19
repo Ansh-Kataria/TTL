@@ -5,7 +5,14 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        montserrat: ["Montserrat", "sans-serif"],
+      },
+      colors: {
+        primaryRed: "#DF3F44", // Add the custom color
+      },
+    },
   },
   plugins: [],
 };

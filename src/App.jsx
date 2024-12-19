@@ -1,10 +1,11 @@
 import './App.css'
+import TopNotificationBar from './components/TopNotificationBar'
 
 function App() {
 
   return (
     <>
-      <h1>TTL</h1>
+      <TopNotificationBar />
     </>
   )
 }
