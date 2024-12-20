@@ -1,7 +1,5 @@
 import React from 'react'
 import Navbar from './Navbar'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBox, faTruckFast, faHeadset } from '@fortawesome/free-solid-svg-icons';
 
 const Hero = () => {
     return (
