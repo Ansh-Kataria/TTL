@@ -10,7 +10,8 @@ export default {
         montserrat: ["Montserrat", "sans-serif"],
       },
       colors: {
-        primaryRed: "#DF3F44", // Add the custom color
+        primaryRed: "#DF3F44",
+        lightPink: "#FFE0E0"
       },
     },
   },
